@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @Xiao-Thong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- my name is xiaothong
-- i'm from foon yew high school
-- and my class is J118
-- i love micro society in FYHS!!
+- 👋 Hi, I’m Xiao-Thong
+- 👀 I’m interested in learning coading
+- 🌱 I’m currently learning coading (ex:C++,Python,HTML,Javascript)
+- ⚡ Fun fact: learning coading!!
+- I love micro computer society in FYHS!!
 
 <!---
 Xiao-Thong/Xiao-Thong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
